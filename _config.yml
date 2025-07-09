@@ -1,0 +1,15 @@
+title: "bind007, my personal journey in engineering."
+email: "bind007@proton.me"
+description: "Free space for my engineering journey."
+baseurl: "" # no cambies esto
+url: "https://bind007.github.io" # URL de tu blog
+
+author:
+  name: "bind007"
+  email: "bind007@proton.me"
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
