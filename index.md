@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Bind007 Blog
+title: Bind007 
 ---
 Welcome to my blog.
