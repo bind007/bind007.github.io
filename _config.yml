@@ -8,7 +8,7 @@ author:
   name: "bind007"
   email: "bind007@proton.me"
 
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
